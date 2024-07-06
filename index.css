@@ -437,6 +437,9 @@
   .flex-col h2 {
     font-size: 18px;
   }
+  .cards-items {
+    padding: 0px;
+  }
   .custom-button {
     font-size: 12px;
     padding: 5px 15px;
